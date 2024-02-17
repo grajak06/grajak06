@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @grajak06
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me C++
+- 👀 I’m interested in competitive mathematics and informatics
+- 🌱 I’m currently studying for the National Maths and Informatics olympiads
 
 <!---
 grajak06/grajak06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
